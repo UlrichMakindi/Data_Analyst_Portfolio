@@ -8,7 +8,7 @@ Je suis Ulrich M., manager en production industrielle agroalimentaire avec plus 
 ------------------------------
 # Projets BootCamp.
 
-## Projet 1 : Entreprise de modèles réduis et maquettes.
+## Entreprise de modèles réduis et maquettes.
 ### Contexte.
 Vous êtes missionné par une société de vente de maquettes et de modèles réduits.
 L'entreprise dispose déjà d'une base de données qui répertorie les employés, les
@@ -22,7 +22,7 @@ gérer l'entreprise.
 - Choix des KPIs : Sélection et mise en forme des indicateurs pertinents pour la prise de décision quotidienne.
 - Power BI : Création d'un tableau de bord interactif et automatisé, avec des visualisations de données pour une interprétation rapide et efficace.
 --------------------------------
-## Projet 2 : DashBord et Système de recommandation de films
+## DashBord et Système de recommandation de films
 ### Contexte.
 Un cinéma français en difficulté souhaite se moderniser et proposer une expérience numérique à ses clients pour dynamiser ses activités. L'objectif est de créer une application qui inclut :
 - Un tableau de bord pour suivre les KPIs clés de l'entreprise (fréquentation, ventes, films populaires, etc.).
@@ -34,8 +34,18 @@ Cette application sera mise à disposition des clients pour enrichir l'expérien
 - APIs : IMDB et TMDB pour récupérer les informations de films
 - Machine Learning : Algorithme K-Nearest Neighbors (Scikit-Learn)
 - Visualisation de données : Power BI pour les KPIs ou directement avec Streamlit.
-- ---------------------
-
-## Projet 3 : Prédiction et Optimisation de la Maintenance Aéronautique.
+- Git & GitHub : Collaboration en équipe et gestion du code source.
+---------------------
+## Prédiction et Optimisation de la Maintenance Aéronautique.
 ### Contexte.
-Vous travaillez pour une compagnie aérienne qui cherche à optimiser ses opérations de maintenance. Votre mission est d'analyser les données de vol et de maintenance pour prédire les besoins de maintenance futurs et leurs coûts associés.
+Vous travaillez pour une compagnie aérienne cherchant à optimiser ses opérations de maintenance. En analysant les données de vol et de maintenance, l'objectif est de prédire les besoins futurs en maintenance et de réduire les coûts associés. Ce projet, appelé SkyAnalytics, permet d'exploiter un ensemble de données simulées comprenant des informations détaillées sur les aéronefs, leurs composants, les logs de vols, et les données d’usure des pièces.
+Il faudra donc : 
+- Analyser les données de vol et de maintenance.
+- Construire des modèles prédictifs pour prévoir les besoins de maintenance futurs.
+- Optimiser les opérations en recommandant des interventions de maintenance basées sur les prédictions.
+### Compétences.
+ - SQL Lite : Gestion et extraction des données de maintenance.
+- Python : Nettoyage, préparation des données, et modélisation prédictive.
+- Power BI : Visualisation des résultats pour le suivi des KPIs et des recommandations de maintenance.
+- Machine Learning (Logistic Regression & Random Forest Classifier) : Prédiction des besoins en maintenance et priorisation des interventions.
+- Git & GitHub : Collaboration en équipe et gestion du code source.
