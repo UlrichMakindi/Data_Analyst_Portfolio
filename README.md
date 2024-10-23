@@ -49,3 +49,11 @@ Il faudra donc :
 - Power BI : Visualisation des résultats pour le suivi des KPIs et des recommandations de maintenance.
 - Machine Learning (Logistic Regression & Random Forest Classifier) : Prédiction des besoins en maintenance et priorisation des interventions.
 - Git & GitHub : Collaboration en équipe et gestion du code source.
+
+## Restaurant customer satisfaction.
+### Contexte.
+Analyse d'un jeun de données pour comprendre les habitudes des clients pour améliorer la satisfaction client et ainsi anticiper les attentes, améliorer l'expérience utilisateur et optimiser les opérations commerciales.
+Le workflow est le suivant : compréhension des données, prétraitement, division du jeu de données en jeu d'entrainement et de test, choix et optimisation du modèle de Machine Learning.
+
+### Compétences : 
+Python, Scikit-Learn.
