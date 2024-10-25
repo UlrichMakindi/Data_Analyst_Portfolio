@@ -57,3 +57,10 @@ Le workflow est le suivant : compréhension des données, prétraitement, divisi
 
 ### Compétences : 
 Python, Scikit-Learn.
+
+## History of Olympics games in few clicks
+## Contexte.
+Production d'une application Streamlit de consultation des résultats des jeux olympics d'Eté et d'Hivers entre 1924 et 2002.
+
+### Compétences.
+Python, Streamlit.
